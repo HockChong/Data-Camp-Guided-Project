@@ -4,10 +4,7 @@ I used the guided project to apply the data analytics skills I learned to solved
 
 ## SQL
 
-1. [What and Where Are the World's Oldest Businesses?](https://github.com/HockChong/Data-Camp-Guided-Project/blob/main/SQL/What%20and%20Where%20Are%20the%20World's%20Oldest%20Businesses.html)
-    * Use SQL data manipulation and joins to discover the oldest businesses around the world.
-
-2. [Analyze International Debt Statistics](https://github.com/HockChong/Data-Camp-Guided-Project/blob/main/SQL/Analyze%20International%20Debt%20Statistics.ipynb)
+1. [Analyze International Debt Statistics](https://github.com/HockChong/Data-Camp-Guided-Project/blob/main/SQL/Analyze%20International%20Debt%20Statistics.ipynb)
     * Write SQL queries to answer interesting questions about international debt using data from The World Bank.
  
 ## Python 
